@@ -1,7 +1,15 @@
 {
-  "name": "testpkg",
+  "name": "@srltestorg/testpkg",
   "version": "1.0.0",
   "description": "test package",
   "author": "bharat",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srltestorg/testpkg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/srltestorg/testpkg/issues"
+  },
+  "homepage": "https://github.com/srltestorg/testpkg#readme"
 }
